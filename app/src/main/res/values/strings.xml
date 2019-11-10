@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwipeMaster</string>
+    <string name="franks_text">Hello World!</string>
+    <string name="franks_button">Button</string>
+</resources>
